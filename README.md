@@ -22,3 +22,8 @@ ToCupboard se enfoca en ayudar a los usuarios a comprar artículos de primera ne
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tuusuario/tocupboard.git
+   https://tocupboard5.wordpress.com/ codigo de la pagiana de Wordpress
+## Proposito del repostorio
+## Propósito del Repositorio
+
+El propósito de este repositorio es proporcionar al equipo de **Digital NAO** acceso completo al contenido del proyecto ToCupboard para colaborar en su desarrollo y mantenimiento. Este repositorio contiene el código fuente, la configuración y la documentación necesaria para la implementación y revisión del proyecto.
